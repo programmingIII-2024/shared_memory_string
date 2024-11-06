@@ -2,6 +2,10 @@
 #include <string.h>
 #include <sys/shm.h>
 
+
+#include <stdlib.h>
+
+
 int main(int argc, char *argv[])
 {
 	int id;
